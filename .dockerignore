@@ -1,0 +1,16 @@
+# Ignore the Python cache files
+__pycache__
+*.pyc
+
+# Ignore the environment files
+venv
+*.env
+*cfg
+
+# Ignore the unnecessary files
+model.ipynb
+
+# Ignore the readme file
+data/README.md
+
+# Ignore the label encoder

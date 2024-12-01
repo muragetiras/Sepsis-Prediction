@@ -1,0 +1,13 @@
+kaggle
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+joblib
+statsmodels
+fastapi[all]
+uvicorn
+python-multipart
