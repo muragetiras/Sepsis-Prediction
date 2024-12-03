@@ -33,4 +33,16 @@ Ensure proper authorization to access and use the dataset in compliance with rel
 │   ├── models/           # API model files  
 ├── requirements.txt      # Python dependencies  
 ├── README.md             # Project documentation  
-└── LICENSE               # License file  
+└── LICENSE               # License file
+
+Name: Tiras Murage Peterson
+Email: tiras.peterson@azubiafrica.org
+GitHub Link:  https://github.com/muragetiras/Sepsis-Prediction.git
+FastAPI Link: http://127.0.0.1:8000/docs
+Docker Link: https://hub.docker.com/r/muragetiras1/api_data
+Screenshots
+
+Name: Tiras Murage Peterson
+GitHub Link:  https://github.com/muragetiras/Sepsis-Prediction.git
+FastAPI Link: http://127.0.0.1:8000/docs
+Docker Link: https://hub.docker.com/r/muragetiras1/api_data
